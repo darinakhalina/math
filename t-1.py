@@ -127,3 +127,34 @@ C = np.array([ [1, 5, -1], [7, 1, -1], [5, 3, 1] ])
 print("test3 5C", 5*C)
 
 # Множення матриць
+a = np.array([ [1,1], [1,1]])
+b = np.array([ [1,1], [1,1]])
+total1 = a.dot(b)
+
+print("total1", total1)
+
+a = np.array([ [1, 2], [3, 4]])
+b = np.array([ [5, 6], [7, 8] ])
+total2 = a.dot(b)
+
+print("total2", total2)
+
+a = np.array([ [1, 2], [3, 4], [5,6]])
+b = np.array([ [7,8,9], [10, 11, 12] ])
+total3 = a.dot(b)
+print("total3", total3)
+
+a = np.array([ [1, 1], [2, 2], [3, 3], [4, 4], [5,5] ])
+b = np.array([ [1,1,1], [2,2,2] ])
+
+total4 = a.dot(b)
+print("total4", total4)
+
+a = np.array([ [1, 2], [2, 2], [3, 2], [4, 2], [5, 2] ])
+b = np.array([ [1,1,1] ])
+
+try:
+    total5 = a.dot(b)
+except ValueError:
+    print("Error here - ValueError: shapes (5,2) and (1,3) not aligned: 2 (dim 1) != 1 (dim 0)")
+
