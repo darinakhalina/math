@@ -12,7 +12,7 @@
 # https://colab.research.google.com/drive/1R68_WouEIfC9NblIvrjDkLf5YvtU9Naw - 3 практика
 # https://ua.onlinemschool.com/math/assistance/vector/p_to_vector/
 # https://github.com/mikh-maksi/math-code/blob/main/math-coord/lesson03/task_tk_07.py
-#
+# https://colab.research.google.com/drive/1ja3lNfpWhQySMJ7cs9dtkV1SR-eFSrEX#scrollTo=Aj4l2c0ebi3F - пример рисунка с векторами
 #
 #
 #
