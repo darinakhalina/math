@@ -1,26 +1,38 @@
 import numpy as np
+import matplotlib.pyplot as plt
 
-a = np.array([[-1, 1, 2],
-                         [0, -1, -3],
-                         [4, -3, 2]])
+# Вектор швидкості кулі до удару в борт
+v_before = np.array([3, 2])
 
-b = np.array([[1],
-                      [-4],
-                      [7]])
+# Вектор швидкості удару
+v_impact = np.array([0, -4])
 
-# Знайдіть і виведіть визначник матриці A + add round round(np.linalg.det(A))
-determinant_a = np.linalg.det(a)
-print("Визначник матриці A:")
-print(determinant_a)
+# Знаходження швидкості кулі після удару (сума векторів)
+v_after = v_before + v_impact
+print("Швидкість кулі після удару:", v_after)
 
-# Знайдіть і виведіть матрицю відповідей x
-solution_x = np.linalg.solve(a, b)
-print("Матриця відповідей x:")
-print(solution_x)
+# Обчислення скалярного добутку
+dot_product = np.dot(v_before, v_impact)
 
-# Знайдіть і виведіть зворотню матрицю A
-inverse_a = np.linalg.inv(a)
-print("Зворотня матриця A:")
-print(inverse_a)
+# Обчислення довжин векторів
+magnitude_before = np.linalg.norm(v_before)
+magnitude_impact = np.linalg.norm(v_impact)
 
-print("test", np.linalg.solve(a, b))
+# Обчислення кута в радіанах
+cos_theta = dot_product / (magnitude_before * magnitude_impact)
+angle_rad = np.arccos(cos_theta)
+
+# Переведення кута в градуси
+angle_deg = np.degrees(angle_rad)
+print("Кут удару (в градусах):", angle_deg)
+
+# Побудова графіку
+plt.figure()
+plt.plot([0, v_before[0]], [0, v_before[1]], label='До удару')
+plt.plot([0, v_impact[0]], [0, v_impact[1]], label='Удар')
+plt.plot([0, v_after[0]], [0, v_after[1]], label='Після удару')
+plt.xlabel('X')
+plt.ylabel('Y')
+plt.legend()
+plt.grid()
+plt.show()
