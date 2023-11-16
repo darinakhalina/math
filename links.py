@@ -16,5 +16,5 @@
 # https://colab.research.google.com/drive/1EJ3yke4QLOrX9cQNWFv5faV2EQiwRqIN
 # https://app.screencast.com/tcAyiQZlXaq5T - пример
 # https://app.screencast.com/8rWDlW5DmRPUj - пример2
-# https://app.screencast.com/8rWDlW5DmRPUj - 4 hw
-# https://app.screencast.com/8rWDlW5DmRPUj - 
+# https://pypi.org/project/criticalpath/ - 4 hw
+# https://colab.research.google.com/drive/1HIOx2z7-Rtwy3z6iucCC_DPbXgp2yDeb?usp=sharing
