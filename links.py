@@ -25,4 +25,7 @@
 # https://onlinemschool.com/math/assistance/limit_derivative/limit/#google_vignette
 # https://onlinemschool.com/math/assistance/limit_derivative/derivative/
 # https://www.wolframalpha.com/
-# 
+# https://www.malinc.se/math/calculus/diffatpointen.php
+# https://www.mathcentre.ac.uk/resources/Engineering%20maths%20first%20aid%20kit/latexsource%20and%20diagrams/8_2.pdf
+#
+#https://www.mathcentre.ac.uk/resources/Engineering%20maths%20first%20aid%20kit/latexsource%20and%20diagrams/8_2.pdf
