@@ -21,6 +21,8 @@
 # https://colab.research.google.com/drive/1IVkTaPzI3kCSq64l46R9TfdTID5s2lGv#scrollTo=7Wjcwhv5Vle5
 # https://colab.research.google.com/drive/1HIOx2z7-Rtwy3z6iucCC_DPbXgp2yDeb#scrollTo=r9J1sYBt7-ei
 # 
-# 
-# 
+# https://colab.research.google.com/drive/1oHrmdDY84dHlf68AOnK24B3pPJ89l1zs?usp=sharing
+# https://onlinemschool.com/math/assistance/limit_derivative/limit/#google_vignette
+# https://onlinemschool.com/math/assistance/limit_derivative/derivative/
+# https://www.wolframalpha.com/
 # 

@@ -20,6 +20,9 @@ magnitude_impact = np.linalg.norm(v_impact)
 
 # Обчислення кута в радіанах
 cos_theta = dot_product / (magnitude_before * magnitude_impact)
+print("V1", cos_theta)
+v2 = dot_product / magnitude_before / magnitude_impact
+print("V2", v2)
 angle_rad = np.arccos(cos_theta)
 
 # Переведення кута в градуси
