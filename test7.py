@@ -22,5 +22,5 @@ print("Значення похідної у точці x=-1/2:", value_at_minus_
 
 # hw4 - https://app.screencast.com/JflpVLQsRThi5
 # https://app.screencast.com/hhSZbiQ4jxxFM
-#
+# 
 #

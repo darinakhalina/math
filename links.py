@@ -30,3 +30,10 @@
 #
 # https://www.mathcentre.ac.uk/resources/Engineering%20maths%20first%20aid%20kit/latexsource%20and%20diagrams/8_2.pdf
 # https://latex.codecogs.com/eqneditor/editor.php
+# https://www.malinc.se/math/calculus/diffatpointen.php
+
+# 5  https://colab.research.google.com/drive/1YDn-0Vtl17900DwrDljU2Sv7gybckf2P?usp=sharing
+# 
+# 
+# 
+#
