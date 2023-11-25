@@ -32,7 +32,7 @@
 # https://latex.codecogs.com/eqneditor/editor.php
 # https://www.malinc.se/math/calculus/diffatpointen.php
 
-# 5  https://colab.research.google.com/drive/1YDn-0Vtl17900DwrDljU2Sv7gybckf2P?usp=sharing
+# 6  https://colab.research.google.com/drive/1YDn-0Vtl17900DwrDljU2Sv7gybckf2P?usp=sharing
 # 
 # 
 # 
