@@ -33,7 +33,7 @@
 # https://www.malinc.se/math/calculus/diffatpointen.php
 
 # 6  https://colab.research.google.com/drive/1YDn-0Vtl17900DwrDljU2Sv7gybckf2P?usp=sharing
-# 
-# 
+# 4 https://github.com/mikh-maksi/math-code/blob/main/math-coord/lesson04/tk_graph.py
+# 4 https://docs.google.com/spreadsheets/d/1Goxts-7oCc9a7OySgnSe9j1Lu_-rBTEmmdwB9Q29biw/edit#gid=0
 # 
 #
