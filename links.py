@@ -34,6 +34,17 @@
 
 # 6  https://colab.research.google.com/drive/1YDn-0Vtl17900DwrDljU2Sv7gybckf2P?usp=sharing
 # 4 https://github.com/mikh-maksi/math-code/blob/main/math-coord/lesson04/tk_graph.py
+# 4 https://graphonline.ru
 # 4 https://docs.google.com/spreadsheets/d/1Goxts-7oCc9a7OySgnSe9j1Lu_-rBTEmmdwB9Q29biw/edit#gid=0
+# 5 https://github.com/mikh-maksi/math-code/blob/main/math-coord/lesson05/limits_01.py
+# 5 таблиця похідних https://uk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8F_%D0%BF%D0%BE%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D1%85
 # 
+#
+#
+#
+#
+#
+#
+#
+#
 #
