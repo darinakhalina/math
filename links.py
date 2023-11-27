@@ -41,6 +41,24 @@
 # 5 калькулятор похідних https://www.wolframalpha.com/
 # 5 калькулятор похідноі https://www.derivative-calculator.net/
 # 
+# https://www.symbolab.com/solver/linear-algebra-calculator
+# https://matrixcalc.org/
+# https://www.mathway.com/LinearAlgebra
+# https://www.math10.com/scripts/matrices/determinant-matrix-calculators.html
+# https://planetcalc.com/search/?section=167
+# https://web.ma.utexas.edu/users/ysulyma/matrix/
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+#
 #
 #
 #
