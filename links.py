@@ -48,8 +48,8 @@
 # https://planetcalc.com/search/?section=167
 # https://web.ma.utexas.edu/users/ysulyma/matrix/
 #
-#  7 https://colab.research.google.com/drive/1stBOzbe3uDiMpWcSARB9KrXj5qJKtAkt
-#
+# 7 https://colab.research.google.com/drive/1stBOzbe3uDiMpWcSARB9KrXj5qJKtAkt
+# 7 https://github.com/mikh-maksi/math-code/blob/main/math-coord/lesson07/iter_05_combinations.py
 #
 #
 #
