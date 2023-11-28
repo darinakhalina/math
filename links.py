@@ -50,14 +50,13 @@
 #
 # 7 https://colab.research.google.com/drive/1stBOzbe3uDiMpWcSARB9KrXj5qJKtAkt
 # 7 https://github.com/mikh-maksi/math-code/blob/main/math-coord/lesson07/iter_05_combinations.py
+# 7 урок - https://colab.research.google.com/drive/1i8WXEjrkY1wOmMYM9CyTi2dzNPSpee-C?usp=sharing
 #
 #
 #
 #
 #
 #
-#
-
 #
 #
 #
