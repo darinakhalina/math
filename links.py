@@ -59,7 +59,7 @@
 # 
 # https://www.wolframalpha.com/
 #
-#
+# оптимізація https://dspace.nuft.edu.ua/jspui/bitstream/123456789/14209/1/1.pdf
 #
 #
 #
