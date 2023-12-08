@@ -61,7 +61,8 @@
 #
 # оптимізація https://dspace.nuft.edu.ua/jspui/bitstream/123456789/14209/1/1.pdf
 # 9 https://colab.research.google.com/drive/1mz3udEM4QMzy2qQ5ax2rrBxJfbQClkhf#scrollTo=vpqddKML0ira
-#
+# 10 https://colab.research.google.com/drive/1M74Rv7K6m4YU0VXn0jVWyJv6GUSufsXh#scrollTo=WpqtcwbI7E60
+
 #
 #
 #
